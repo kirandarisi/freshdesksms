@@ -92,3 +92,8 @@ Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:5
   Parameters: {"content"=>"Testing chicken wings"}
 Redirected to http://localhost:3005/
 Completed in 1597ms (DB: 0) | 302 Found [http://localhost/sms?content=Testing%20chicken%20wings]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 15:39:34) [GET]
+  Parameters: {"msisdn"=>"919811384697", "content"=>"Hello Hi"}
+Completed in 1880ms (View: 1, DB: 0) | 200 OK [http://localhost/sms?msisdn=919811384697&content=Hello+Hi]

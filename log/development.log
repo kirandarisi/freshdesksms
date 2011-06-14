@@ -97,3 +97,9 @@ Completed in 1597ms (DB: 0) | 302 Found [http://localhost/sms?content=Testing%20
 Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 15:39:34) [GET]
   Parameters: {"msisdn"=>"919811384697", "content"=>"Hello Hi"}
 Completed in 1880ms (View: 1, DB: 0) | 200 OK [http://localhost/sms?msisdn=919811384697&content=Hello+Hi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 15:56:48) [GET]
+  Parameters: {"msisdn"=>"919811384697", "content"=>"Hello Hi"}
+Redirected to http://localhost:3002/
+Completed in 9977ms (DB: 0) | 302 Found [http://localhost/sms?msisdn=919811384697&content=Hello+Hi]

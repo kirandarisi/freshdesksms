@@ -1,0 +1,94 @@
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 13:27:46) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+
+ActionView::MissingTemplate (Missing template smsdelivery/create_ticket.erb in view path app/views):
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 13:29:14) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 13:44:48) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1175ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 13:48:22) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1645ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:10:12) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1750ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:14:51) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1835ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:22:37) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 136ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:23:23) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 38ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:30:06) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1780ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:30:45) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1803ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:33:37) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1657ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:36:50) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 1949ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:42:54) [GET]
+  Parameters: {"content"=>"kiran darisi"}
+Redirected to http://localhost:3005/
+Completed in 2175ms (DB: 0) | 302 Found [http://localhost/sms?content=kiran%20darisi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:49:17) [GET]
+  Parameters: {"content"=>"Testing the ticket creation"}
+Redirected to http://localhost:3005/
+Completed in 1910ms (DB: 0) | 302 Found [http://localhost/sms?content=Testing%20the%20ticket%20creation]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 14:50:03) [GET]
+  Parameters: {"content"=>"Testing chicken wings"}
+Redirected to http://localhost:3005/
+Completed in 1597ms (DB: 0) | 302 Found [http://localhost/sms?content=Testing%20chicken%20wings]

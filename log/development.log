@@ -103,3 +103,8 @@ Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 15:5
   Parameters: {"msisdn"=>"919811384697", "content"=>"Hello Hi"}
 Redirected to http://localhost:3002/
 Completed in 9977ms (DB: 0) | 302 Found [http://localhost/sms?msisdn=919811384697&content=Hello+Hi]
+
+
+Processing SmsdeliveryController#create_ticket (for 127.0.0.1 at 2011-06-14 16:18:20) [GET]
+  Parameters: {"msisdn"=>"919811384697", "content"=>"sms loca"}
+Completed in 1545ms (View: 1, DB: 0) | 200 OK [http://localhost/sms?msisdn=919811384697&content=sms%20loca]

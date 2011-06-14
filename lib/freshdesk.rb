@@ -11,13 +11,13 @@ module Freshdesk
     @auth = {:username => "kiran.darisi@gmail.com", :password => "test"}
   end
   
- def self.create_tkt(content)
+ def self.create_tkt(content,msisdn)
    options = {
       :body => {
          :helpdesk_ticket => { 
          :email => 'kiran.darisi@gmail.com', 
          :subject => content[0,50],
-         :description => content
+         :description => content+" and the number is  "+msisdn
        }
        }
    }
